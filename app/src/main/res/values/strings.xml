@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TribalApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="unsplash">Unsplash</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <string name="search">Search free photos</string>
+    <string name="clear">Clear</string>
+    <string name="no_result">No search results</string>
+    <string name="profile">Profile</string>
+    <string name="number_likes_image">99</string>
+    <string name="txt_search_action">Search</string>
+    <string name="txt_favorite_action">Favorite</string>
+    <string name="txt_app_name">Tribal App</string>
+    <string name="error_message">Ocurrió un error, intente de nuevo.</string>
+    <string name="photos_txt">Photos</string>
+    <string name="collections_text">Collections</string>
+    <string name="likes_text">Likes</string>
+    <string name="image_location">image_location</string>
+    <string name="image_facebook">image facebook</string>
+    <string name="image_twitter">image twitter</string>
+    <string name="image_linkedin">image linkedin</string>
+    <string name="image_instagram">image instagram</string>
+    <string name="photos_text_mayus">PHOTOS</string>
+</resources>
