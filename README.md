@@ -40,14 +40,11 @@ com.google.android.material:material
 
 Circle Imageview
 de.hdodenhof:circleimageview
-```
 
-### 
 Data persistence
 Room
 androidx.room:room-runtime
+```
 
 **lbraries**
-
-```
 
